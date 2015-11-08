@@ -33,7 +33,7 @@
     },
     {
       id: 5,
-      name: 'Skippable Video Ads', // You'd definitely change the name.
+      name: 'Skippable Video Ads',
       description: 'Show a skippable "short elevator pitch"-video ad on multiple video sites, before the video starts',
       pricePerImpression: 0.020,
       conversationRate: 0.7,
@@ -41,7 +41,7 @@
     },
     {
       id: 6,
-      name: 'Non-Skippable Video Ads', // You'd definitely change the name.
+      name: 'Non-Skippable Video Ads',
       description: 'Show a non-skippable "short elevator pitch"-video ad on multiple video sites before the video starts',
       pricePerImpression: 0.025,
       conversationRate: 0.7,
@@ -49,8 +49,8 @@
     },
     {
       id: 7,
-      name: 'Product Placement', // You'd definitely change the name.
-      description: 'View your products in films and videos',
+      name: 'Product Placement',
+      description: 'Show your products in films and movies',
       pricePerImpression: 0.030,
       conversationRate: 0.8,
       annoyance: 0.05
